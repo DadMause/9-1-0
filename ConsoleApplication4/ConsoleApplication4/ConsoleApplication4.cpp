@@ -2,6 +2,8 @@
 #include "windows.h"
 using namespace std;
 
+// S. W. A. G. A.
+
 int main()
 {
     SetConsoleCP(1251);
